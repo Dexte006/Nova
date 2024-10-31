@@ -1,1 +1,1 @@
-Nona is a simple virtual assistain 
+Nova is a simple virtual assistain 
